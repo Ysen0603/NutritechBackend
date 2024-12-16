@@ -29,6 +29,7 @@ fatapi main:app
 ## 📦 Documentation
 [Documentation](https://fastapi.tiangolo.com/)
 ## 📂 Structure du Projet
+```
 BackEnd/
 │
 ├── main.py             # Point d'entrée principal
@@ -37,5 +38,6 @@ BackEnd/
 ├── requirements.txt    # Dépendances du projet
 └── README.md           # Documentation du projet
 ## 🌐 Endpoints Principaux
+```
 - `/videos` : Retourne une liste de videos
 - `/videos/{video_id}` : Retourne les détails d'une video
